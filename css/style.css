@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.topbar2{
+    width: 100%;
+    height: 50px;
+    float: left;
+    background-color: rgb(246, 54, 54);
+    text-align: center;
+    font-size: 120%;
+}
+.topbar2 ul li{
+    display: inline-block;
+    padding-top:11px;
+    padding-left: 10px;
+ 
+    list-style-type:none;
+}
+
+.topbar2 ul li a{
+    color: white;
+    padding:11px;
+    text-decoration: none;
+}
+.topbar2 ul li a:hover{
+    background-color: black;
+    color: aquamarine;
+}
+
+
+
+.one{
+    height: 250px;
+    width: 500px;
+    background-color: rgba(116, 4, 4, 0.187);
+    margin-top: auto;
+    margin-bottom: 50px;
+    
+}
+.one h2{
+    padding-top: 10px;
+    font-size: 20px;
+    color: rgb(110, 110, 229);
+    
+
+}
+.one h3{
+    font-size: 50px;
+    color: aliceblue;
+}
+.one p{
+    font-size: 18px;
+    color: black;
+}
+
+.two button ul li a{
+    height: 50px;
+    width: 100px;
+    background-color: red;
+   font-size: 40px;
+   border-bottom: 20px;
+   border-color: blue;
+}
+.three{
+    height: 300px;
+    width: 1000px;
+    background-color: rgba(143, 8, 8, 0.187);
+    margin-top: auto;
+    margin-bottom: 50px;
+    
+
+}
+.three h2{
+    font-size: 40px;
+   color: black;
+}
+.three h3{ 
+    font-size: 20px;
+    color: rgba(210, 71, 71, 0.988);
+
+
+}
+.five{
+    height: 250px;
+    width: 400px;
+    background-color: rgb(239, 183, 183);
+    
+}
+.five h2{
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+    
+}
+.six{
+    height: 250px;
+    width: 400px;
+    background-color: bisque;
+    float: left;
+}
+.seven{
+    height: 250px;
+    width: 400px;
+    background-color: bisque;
+    float: left;
+}
+.nine{
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+}
+.ten{
+    height: 300px;
+    width: 500px;
+    background-color: rgba(213, 200, 226, 0.888);
+    font-size: 40px;
+    color: blue;
+    float: left;
+}
+
+.none{
+    height: 400px;
+    width: 600px;
+    background-color: black;
+    font-size: 40px;
+    color: azure;
+    float: right;
+    margin-right: auto;
+}
+
+.asdf{
+    height: 350px;
+    width: 550px;
+    background-color: tomato;
+    font-size: 35px;
+    color: rgb(235, 191, 159);
+    float: inline-start;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+
+.last{
+    height: 300px;
+    width: 600px;
+    background-color: rgb(33, 26, 219);
+    font-size: 35px;
+    color: rgb(239, 50, 97);
+    float: inline-end;
+    margin-bottom: auto;
+    text-align: center;
+}
+.last one h1{
+    height: 100px;
+    width: 100px;
+    font-size: 100px;
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.last one h2{
+    font-size: 80px;
+}
